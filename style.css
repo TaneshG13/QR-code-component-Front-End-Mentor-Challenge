@@ -23,7 +23,7 @@ body {
 }
 
 .card {
-  max-width: 20rem;
+  max-width: 18rem;
   height: fit-content;
   display: flex;
   flex-direction: column;
